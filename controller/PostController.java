@@ -49,6 +49,10 @@ public class PostController {
 
 
     }
+    @DeleteMapping
+    public void deletePost(){
+        
+    }
 
 
 
