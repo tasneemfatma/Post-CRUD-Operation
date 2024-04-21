@@ -54,6 +54,12 @@ public class PostController {
         
     }
 
+        @GetMapping
+    public void getPost(){
+        
+    }
+
+
 
 
 }
